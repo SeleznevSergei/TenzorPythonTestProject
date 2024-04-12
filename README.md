@@ -19,17 +19,33 @@ wrapper
 
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1.png)
 
-4) Перейти на https://tensor.ru/
+3) Перейти на https://tensor.ru/
 
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img2.png)
 
-5) Проверить, что есть блок "Сила в людях"
+4) Проверить, что есть блок "Сила в людях"
 
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img3.png)
 
-6) Перейдите в этом блоке в "Подробнее" и убедитесь, что открывается
+5) Перейдите в этом блоке в "Подробнее" и убедитесь, что открывается
 https://tensor.ru/about
-7) Находим раздел Работаем и проверяем, что у всех фотографии хронологии
+6) Находим раздел Работаем и проверяем, что у всех фотографии хронологии
 одинаковые высота (height) и ширина (width)
 
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img4.png)
+
+### Второй сценарий:
+1) Перейти на https://sbis.ru/ в раздел "Контакты"
+2) Проверить, что определился ваш регион (в нашем примере Ярославская обл.) и есть
+список партнеров.
+
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1-1.png)
+
+3) Изменить регион на Камчатский край
+
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1-2.png)
+
+4) Проверить, что подставился выбранный регион, список партнеров изменился, url и
+title содержат информацию выбранного региона
+
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1-3.png)
