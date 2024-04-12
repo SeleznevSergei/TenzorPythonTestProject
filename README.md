@@ -16,7 +16,7 @@ wrapper
 ### Первый сценарий:
 1) Перейти на https://sbis.ru/ в раздел "Контакты"
 2) Найти баннер Тензор, кликнуть по нему
-
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1.png)
 3) Перейти на https://tensor.ru/
 
 4) Проверить, что есть блок "Сила в людях"
