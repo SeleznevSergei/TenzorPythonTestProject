@@ -18,10 +18,11 @@ wrapper
 2) Найти баннер Тензор, кликнуть по нему
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1.png)
 3) Перейти на https://tensor.ru/
-
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img2.png)
 4) Проверить, что есть блок "Сила в людях"
-
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img3.png)
 5) Перейдите в этом блоке в "Подробнее" и убедитесь, что открывается
 https://tensor.ru/about
 6) Находим раздел Работаем и проверяем, что у всех фотографии хронологии
 одинаковые высота (height) и ширина (width)
+![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img4.png)
