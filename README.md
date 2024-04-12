@@ -16,8 +16,10 @@ wrapper
 ### Первый сценарий:
 1) Перейти на https://sbis.ru/ в раздел "Контакты"
 2) Найти баннер Тензор, кликнуть по нему
+
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img1.png)
-3) Перейти на https://tensor.ru/
+
+4) Перейти на https://tensor.ru/
 
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img2.png)
 
@@ -29,4 +31,5 @@ wrapper
 https://tensor.ru/about
 7) Находим раздел Работаем и проверяем, что у всех фотографии хронологии
 одинаковые высота (height) и ширина (width)
+
 ![image alt](https://github.com/SeleznevSergei/TenzorPythonTestProject/blob/main/img/img4.png)
